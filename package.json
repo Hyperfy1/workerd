@@ -14,7 +14,7 @@
     "astring": "^1.9.0",
     "capnp-es": "0.0.16",
     "chrome-remote-interface": "^0.34.0",
-    "esbuild": "^0.27.7",
+    "esbuild": "^0.28.1",
     "eslint": "^10.8.1",
     "expect-type": "^1.4.0",
     "typescript-eslint": "^8.66.0"
